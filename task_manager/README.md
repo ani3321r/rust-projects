@@ -22,7 +22,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/task-manager.git
+   git clone https://github.com/ani3321r/rust-projects.git
    ```
 2. **Navigate to the project directory:**
    ```bash
@@ -122,7 +122,7 @@ If you'd like to contribute or modify the project, follow these steps:
 1. **Fork the repository**
 2. **Clone your fork**:
    ```bash
-   git clone https://github.com/your-username/task-manager.git
+   git clone https://github.com/ani3321r/rust-projects.git
    ```
 3. **Create a new branch for your feature**:
    ```bash
