@@ -1,0 +1,45 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Full height of the viewport */
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  transition: background-color 0.3s;
+}
+
+.container:hover {
+  background-color: #e9ecef; /* Light hover effect */
+}
+
+p {
+  font-size: 2rem;
+  color: #333;
+  margin: 0 0 20px; /* Space below the text */
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #0056b3; /* Darker shade on hover */
+}
+
+button:focus {
+  outline: none; /* Remove default focus outline */
+}
+
+button:active {
+  background-color: #004085; /* Darker shade when clicked */
+}
