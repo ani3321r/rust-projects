@@ -1,0 +1,11 @@
+[package]
+name = "basic_blockchain"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.38"
+serde = "1.0.210"
+serde_derive = "1.0.210"
+serde_json = "1.0.129"
+sha2 = "0.10.8"
