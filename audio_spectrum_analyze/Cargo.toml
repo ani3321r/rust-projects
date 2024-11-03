@@ -1,0 +1,9 @@
+[package]
+name = "audio_spectrum_analyze"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+iced = { version = "0.10", features = ["canvas", "tokio"] }
+cpal = "0.15"
+rustfft = "6.1"
