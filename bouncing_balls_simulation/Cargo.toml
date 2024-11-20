@@ -1,0 +1,9 @@
+[package]
+name = "bouncing_balls_simulation"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ggez = "0.5.1"
+mint = "0.5.9"
+rand = "0.8"
